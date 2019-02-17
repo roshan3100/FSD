@@ -1,0 +1,2 @@
+# FSD
+Fastest Searching Dictonary
